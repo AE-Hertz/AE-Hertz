@@ -1,5 +1,5 @@
 ## 🥷 About Me:
-<img align="right" src="https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00" width="320" height="180">
+<img align="right" src="https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00" width="360" height="203">
 
 ### 🚀 **On My Radar**  
 Creating something that will change the game.
@@ -97,11 +97,27 @@ Professional gamer, and have mastered the art of multitasking between coding and
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AE-Hertz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="160" alt="stats graph" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AE-Hertz&theme=vision-friendly-dark&hide_border=true" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-Hertz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="language-stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AE-Hertz&radius=16&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="480" alt="activity-graph" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AE-Hertz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="160" alt="stats graph" />
+      </td>
+      <td>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=AE-Hertz&theme=vision-friendly-dark&hide_border=true" height="160" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-Hertz&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160" alt="language-stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AE-Hertz&radius=16&theme=high-contrast&area=true&hide_border=true&hide_title=true" height="480" alt="activity-graph" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 <br>
 
 ## 🌎 Open-Source Contributions
