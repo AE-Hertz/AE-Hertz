@@ -1,5 +1,5 @@
-## 💫 About Me:
- <img align="right" src="https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00">
+## 🥷 About Me:
+<img align="right" src="https://github.com/user-attachments/assets/771ef9ae-9113-45db-93f9-20d7a8befd00" width="320" height="180">
 
 ### 🚀 **On My Radar**  
 Creating something that will change the game.
