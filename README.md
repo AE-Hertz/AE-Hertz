@@ -30,8 +30,9 @@ Professional gamer, and have mastered the art of multitasking between coding and
   <a href="https://youtube.com/@playinhertz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-<br>
-## 💻 Tech Stack
+<be>
+
+## 💻 Tech Stack:
 
 <table>
   <tr>
